@@ -2,7 +2,7 @@
 
 namespace Soumya\Mfopenaiphp;
 
-class Openai
+class Mfopenaiphp
 {
     private string $content_types;
     private string $url;
